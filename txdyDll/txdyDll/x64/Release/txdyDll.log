@@ -1,0 +1,22 @@
+﻿  txdydll.cpp
+C:\Users\郑龙\Desktop\txdyDll\txdyDll\txdydll.cpp(12,1): warning C4273: “ReceiveData”: dll 链接不一致
+C:\Users\郑龙\Desktop\txdyDll\txdyDll\txdydll.h(7,46): message : 参见“ReceiveData”的前一个定义
+C:\Users\郑龙\Desktop\txdyDll\txdyDll\txdydll.cpp(24,1): warning C4273: “Close”: dll 链接不一致
+C:\Users\郑龙\Desktop\txdyDll\txdyDll\txdydll.h(8,38): message : 参见“Close”的前一个定义
+C:\Users\郑龙\Desktop\txdyDll\txdyDll\txdydll.cpp(30,1): warning C4273: “Connect”: dll 链接不一致
+C:\Users\郑龙\Desktop\txdyDll\txdyDll\txdydll.h(11,47): message : 参见“Connect”的前一个定义
+C:\Users\郑龙\Desktop\txdyDll\txdyDll\txdydll.cpp(68,12): warning C4244: “return”: 从“SOCKET”转换到“unsigned int”，可能丢失数据
+C:\Users\郑龙\Desktop\txdyDll\txdyDll\txdydll.cpp(71,1): warning C4273: “ConnectTest”: dll 链接不一致
+C:\Users\郑龙\Desktop\txdyDll\txdyDll\txdydll.h(9,47): message : 参见“ConnectTest”的前一个定义
+C:\Users\郑龙\Desktop\txdyDll\txdyDll\txdydll.cpp(104,12): warning C4244: “return”: 从“SOCKET”转换到“unsigned int”，可能丢失数据
+C:\Users\郑龙\Desktop\txdyDll\txdyDll\txdydll.cpp(108,1): warning C4273: “ConnectSave”: dll 链接不一致
+C:\Users\郑龙\Desktop\txdyDll\txdyDll\txdydll.h(12,39): message : 参见“ConnectSave”的前一个定义
+C:\Users\郑龙\Desktop\txdyDll\txdyDll\txdydll.cpp(118,1): warning C4273: “SendData”: dll 链接不一致
+C:\Users\郑龙\Desktop\txdyDll\txdyDll\txdydll.h(10,38): message : 参见“SendData”的前一个定义
+    正在创建库 C:\Users\郑龙\Desktop\txdyDll\x64\Release\txdyDll.lib 和对象 C:\Users\郑龙\Desktop\txdyDll\x64\Release\txdyDll.exp
+  正在生成代码
+  0 of 528 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  txdyDll.vcxproj -> C:\Users\郑龙\Desktop\txdyDll\x64\Release\txdyDll.dll

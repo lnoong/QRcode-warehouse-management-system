@@ -1,0 +1,55 @@
+﻿  camera.cpp
+D:\vs\dll\camera\camera.cpp(42,1): warning C4273: “CameraOpen”: dll 链接不一致
+D:\vs\dll\camera\camera.h(36,38): message : 参见“CameraOpen”的前一个定义
+D:\vs\dll\camera\camera.cpp(55,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\vs\dll\camera\camera.cpp(70,13): warning C4018: “>=”: 有符号/无符号不匹配
+D:\vs\dll\camera\camera.cpp(113,1): warning C4273: “CameraClose”: dll 链接不一致
+D:\vs\dll\camera\camera.h(37,38): message : 参见“CameraClose”的前一个定义
+D:\vs\dll\camera\camera.cpp(133,1): warning C4273: “CameraSet”: dll 链接不一致
+D:\vs\dll\camera\camera.h(38,38): message : 参见“CameraSet”的前一个定义
+D:\vs\dll\camera\camera.cpp(135,53): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\vs\dll\camera\camera.cpp(141,45): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\vs\dll\camera\camera.cpp(153,46): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\vs\dll\camera\camera.cpp(174,1): warning C4273: “CreateQR”: dll 链接不一致
+D:\vs\dll\camera\camera.h(30,38): message : 参见“CreateQR”的前一个定义
+D:\vs\dll\camera\camera.cpp(260,1): warning C4273: “ImageToCs”: dll 链接不一致
+D:\vs\dll\camera\camera.h(32,39): message : 参见“ImageToCs”的前一个定义
+D:\vs\dll\camera\camera.cpp(281,1): warning C4273: “StrToCs”: dll 链接不一致
+D:\vs\dll\camera\camera.h(33,46): message : 参见“StrToCs”的前一个定义
+D:\vs\dll\camera\camera.cpp(284,16): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+D:\vs\dll\camera\camera.cpp(288,1): warning C4273: “DetectQR”: dll 链接不一致
+D:\vs\dll\camera\camera.h(31,39): message : 参见“DetectQR”的前一个定义
+D:\vs\dll\camera\camera.cpp(299,1): warning C4273: “SignIn”: dll 链接不一致
+D:\vs\dll\camera\camera.h(41,38): message : 参见“SignIn”的前一个定义
+D:\vs\dll\camera\camera.cpp(325,1): warning C4273: “SignUp”: dll 链接不一致
+D:\vs\dll\camera\camera.h(42,38): message : 参见“SignUp”的前一个定义
+D:\vs\dll\camera\camera.cpp(374,1): warning C4273: “ForgetPassword”: dll 链接不一致
+D:\vs\dll\camera\camera.h(44,46): message : 参见“ForgetPassword”的前一个定义
+D:\vs\dll\camera\camera.cpp(399,1): warning C4273: “ReadPassword”: dll 链接不一致
+D:\vs\dll\camera\camera.h(48,38): message : 参见“ReadPassword”的前一个定义
+D:\vs\dll\camera\camera.cpp(403,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs\dll\camera\camera.cpp(405,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs\dll\camera\camera.cpp(407,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs\dll\camera\camera.cpp(411,1): warning C4273: “WritePassword”: dll 链接不一致
+D:\vs\dll\camera\camera.h(49,38): message : 参见“WritePassword”的前一个定义
+D:\vs\dll\camera\camera.cpp(421,1): warning C4273: “LinkMysql”: dll 链接不一致
+D:\vs\dll\camera\camera.h(45,39): message : 参见“LinkMysql”的前一个定义
+D:\vs\dll\camera\camera.cpp(433,1): warning C4273: “ReLinkMysql”: dll 链接不一致
+D:\vs\dll\camera\camera.h(46,39): message : 参见“ReLinkMysql”的前一个定义
+D:\vs\dll\camera\camera.cpp(445,1): warning C4273: “ObjectAdd”: dll 链接不一致
+D:\vs\dll\camera\camera.h(50,37): message : 参见“ObjectAdd”的前一个定义
+D:\vs\dll\camera\camera.cpp(452,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs\dll\camera\camera.cpp(460,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs\dll\camera\camera.cpp(468,1): warning C4273: “MysqlLinkInfo”: dll 链接不一致
+D:\vs\dll\camera\camera.h(51,46): message : 参见“MysqlLinkInfo”的前一个定义
+D:\vs\dll\camera\camera.cpp(481,1): warning C4273: “UserInfo”: dll 链接不一致
+D:\vs\dll\camera\camera.h(52,46): message : 参见“UserInfo”的前一个定义
+D:\vs\dll\camera\camera.cpp(487,1): warning C4273: “ObjectInfo”: dll 链接不一致
+D:\vs\dll\camera\camera.h(53,46): message : 参见“ObjectInfo”的前一个定义
+    正在创建库 D:\vs\dll\camera\x64\Release\camera.lib 和对象 D:\vs\dll\camera\x64\Release\camera.exp
+  正在生成代码
+  6 of 1341 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  camera.vcxproj -> D:\vs\dll\camera\x64\Release\camera.dll

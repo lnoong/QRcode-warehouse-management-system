@@ -1,0 +1,1 @@
+D:\vs\dll\camera\x64\Release\camera.dll

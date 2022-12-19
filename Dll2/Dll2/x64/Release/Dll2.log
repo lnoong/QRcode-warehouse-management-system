@@ -1,0 +1,29 @@
+﻿  pch.cpp
+  dllmain.cpp
+  myDll.cpp
+D:\vs\dll\Dll2\Dll2\myDll.cpp(13,142): warning C4273: “mysqllink”: dll 链接不一致
+D:\vs\dll\Dll2\Dll2\myDll.h(2,38): message : 参见“mysqllink”的前一个定义
+D:\vs\dll\Dll2\Dll2\myDll.cpp(34,70): warning C4273: “mysqluserselect”: dll 链接不一致
+D:\vs\dll\Dll2\Dll2\myDll.h(3,47): message : 参见“mysqluserselect”的前一个定义
+D:\vs\dll\Dll2\Dll2\myDll.cpp(61,11): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+D:\vs\dll\Dll2\Dll2\myDll.cpp(77,62): warning C4273: “mysqluserchange”: dll 链接不一致
+D:\vs\dll\Dll2\Dll2\myDll.h(4,38): message : 参见“mysqluserchange”的前一个定义
+D:\vs\dll\Dll2\Dll2\myDll.cpp(102,121): warning C4273: “mysqluseradd”: dll 链接不一致
+D:\vs\dll\Dll2\Dll2\myDll.h(5,38): message : 参见“mysqluseradd”的前一个定义
+D:\vs\dll\Dll2\Dll2\myDll.cpp(118,1): warning C4273: “mysqluserdel”: dll 链接不一致
+D:\vs\dll\Dll2\Dll2\myDll.h(6,38): message : 参见“mysqluserdel”的前一个定义
+D:\vs\dll\Dll2\Dll2\myDll.cpp(128,73): warning C4273: “mysqlobjectselect”: dll 链接不一致
+D:\vs\dll\Dll2\Dll2\myDll.h(8,46): message : 参见“mysqlobjectselect”的前一个定义
+D:\vs\dll\Dll2\Dll2\myDll.cpp(158,11): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+D:\vs\dll\Dll2\Dll2\myDll.cpp(174,66): warning C4273: “mysqlobjectchange”: dll 链接不一致
+D:\vs\dll\Dll2\Dll2\myDll.h(9,38): message : 参见“mysqlobjectchange”的前一个定义
+D:\vs\dll\Dll2\Dll2\myDll.cpp(201,144): warning C4273: “mysqlobjectadd”: dll 链接不一致
+D:\vs\dll\Dll2\Dll2\myDll.h(10,38): message : 参见“mysqlobjectadd”的前一个定义
+D:\vs\dll\Dll2\Dll2\myDll.cpp(218,1): warning C4273: “mysqlobjectdel”: dll 链接不一致
+D:\vs\dll\Dll2\Dll2\myDll.h(11,38): message : 参见“mysqlobjectdel”的前一个定义
+    正在创建库 D:\vs\dll\Dll2\x64\Release\Dll2.lib 和对象 D:\vs\dll\Dll2\x64\Release\Dll2.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 113 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Dll2.vcxproj -> D:\vs\dll\Dll2\x64\Release\Dll2.dll

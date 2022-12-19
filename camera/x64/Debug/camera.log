@@ -1,0 +1,2 @@
+﻿  camera.cpp
+D:\vs\dll\camera\camera.h(10,10): fatal error C1083: 无法打开包括文件: “myDll.h”: No such file or directory
